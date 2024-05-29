@@ -3,9 +3,6 @@ name: Publish Package to npmjs
 on:
   release:
     types: [published]
-# on:
-#   push:
-#     branches: [main]
 
 jobs:
   publish-npm:
