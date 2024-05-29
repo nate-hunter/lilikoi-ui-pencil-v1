@@ -13,6 +13,10 @@
       "require": "./dist/lilikoi-ui-pencil.umd.js"
     }
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nate-hunter/lilikoi-ui-pencil-v1"
+  },
   "scripts": {
     "dev": "vite",
     "prebuild": "rm -rf dist",
